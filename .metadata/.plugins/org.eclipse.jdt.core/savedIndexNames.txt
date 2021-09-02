@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+E:\usuarios\alumno\Documentos\Tecnología de la programación\tdp-proyecto-1\proyecto-1\.metadata\.plugins\org.eclipse.jdt.core
-3903493332.index
-3897568192.index
